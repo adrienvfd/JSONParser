@@ -1,7 +1,8 @@
-# Json-Parser---Final-Project--Devmind
+# Json-Parser, final project at Devmind.
+
 High Performance Event Correlation System
 
-This project is a basic JSON Parser.
+This project is a basic JSON Parser. \n\n
 It takes as input a JSON file (src/hpecs_public_tests/traffic),
 and a corresponding query text file (src/hpecs_public_tests/input).
 
