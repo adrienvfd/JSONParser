@@ -1,0 +1,15 @@
+
+Ž
+java:S1130"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(…ÐÕÄ8ÛÖ¤ôæ/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¢éðôþÿÿÿÿ8ÞÖ¤ôæ/
+8
+java:S3626F"Remove this redundant jump.(ÉŠ©ƒ8áÖ¤ôæ/
+t	java:S127*"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8±×¤ôæ/
+t	java:S1275"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8±×¤ôæ/
+s	java:S1279"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8²×¤ôæ/
+y	java:S127>"XRefactor the code in order to not assign to this loop counter from within the loop body.(³Ôæ’ùÿÿÿÿ8²×¤ôæ/
+y	java:S127A"XRefactor the code in order to not assign to this loop counter from within the loop body.(ªÏ¨ÿüÿÿÿÿ8³×¤ôæ/
+Ž
+java:S1319T"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(¬ËâŒ8´×¤ôæ/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å¬öÂøÿÿÿÿ8××¤ôæ/

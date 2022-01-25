@@ -1,0 +1,9 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(şÂñ8´Ô¤ôæ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Íï¦üÿÿÿÿ8€Õ¤ôæ/
+F
+java:S1068
+")Remove this unused "value" private field.(ŸÑÆ÷8–Õ¤ôæ/
+Œ
+java:S1319"jThe type of "queryLine" should be an interface such as "List" rather than the implementation "LinkedList".(Ş¶Úëÿÿÿÿÿ8—Õ¤ôæ/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Ú’Ö8™Õ¤ôæ/

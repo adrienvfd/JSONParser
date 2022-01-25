@@ -1,0 +1,5 @@
+
+O
+java:S2386"9Move "JSON_TYPE_LIST" to a class and lower its visibility(æíê“
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–Éµ»8–ªàŒÂ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì∑ΩÈ

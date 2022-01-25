@@ -1,0 +1,12 @@
+
+m
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.(Øì£ˆøÿÿÿÿ
+V	java:S125T"<This block of commented-out lines of code should be removed.(‰…“Šüÿÿÿÿ
+?
+java:S1940Y")Use the opposite operator ("!=") instead.(¦õÎù
+m	java:S127W"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+m	java:S127i"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+l	java:S127l"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127x"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+n	java:S127ƒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(õÌ–ü
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕûÏ„
